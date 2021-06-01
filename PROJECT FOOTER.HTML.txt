@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="projectfooter.css">
+    <title>FOOOTER</title>
+
+</head>
+<body>
+   <div class="footer-container">
+       <div class="footer">
+           <div class="footer-heading footer-1">
+               <h2> Team Members</h2>
+               <ul style="list-style-type: disc">
+                   <li>
+                       AKSHAY KUMAR Emp ID-(1995971)
+                   </li>
+                   <li>
+                        ISHA KIRTI Emp ID-(1998564)
+                   </li>
+                   <li>
+                       SUJATA KUMARI Emp ID-(1998727)
+                   </li>
+               </ul>
+           </div>
+           <div class="footer-heading footer-2">
+            <h2>Technologies Used</h2>
+            <ul style ="list-style-type: disc">
+                <li>
+                    Angular
+                </li>
+                <li>
+                    HTML
+                </li>
+                <li>
+                    CSS
+                </li>
+                <li>
+                  NodeJs
+                </li>
+
+            </ul>
+            </div>
+            <div class="footer-heading footer-3">
+                <h2> Social Media</h2>
+                <a href="#">Instagram</a>
+                <a href="#"> Facebook</a>
+                <a href="#"> Youtube</a>
+            </div>
+            <div class="footer-email-form">
+                <h2> Join Our News Letter</h2>
+                <input type="email" placeholder="Enter your email address" id="footer-email">
+                <input type="submit" value="Sign-Up" id="footer-email-button">
+            </div>
+
+        </div>
+        
+        <marquee style= "color:rgb(13, 172, 132)" > <h2><b><i> THANKS FOR VISITING OUR PAGE..... </i></b> </h2> </marquee>  
+    </div>
+       
+       
+ 
+</body>
+</html>
